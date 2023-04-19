@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: large;
+  margin-left: 20px;
+}
+
+.img {
+  width: 50%;
+  height: 50%;
+  border: 1px solid hotpink;
+  padding: 10px;
+}
+
+.img-hotpink {
+  background-color: hotpink;
+}
+
+#animal-picker {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
